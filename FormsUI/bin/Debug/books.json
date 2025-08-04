@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "ISBN": "GERG",
+    "Title": "DFG",
+    "Author": "GERG",
+    "Year": 2025,
+    "PageCount": 1021
+  },
+  {
+    "Id": 2,
+    "ISBN": "ds",
+    "Title": "dasd",
+    "Author": "sdf",
+    "Year": 2025,
+    "PageCount": 100
+  }
+]

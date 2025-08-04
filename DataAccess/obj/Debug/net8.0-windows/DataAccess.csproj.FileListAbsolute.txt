@@ -1,0 +1,48 @@
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\bin\Debug\net8.0-windows\DataAccess.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.sourcelink.json
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.Up2Date
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\refint\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\DataAccess\obj\Debug\net8.0-windows\ref\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\bin\Debug\net8.0-windows\DataAccess.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.sourcelink.json
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.Up2Date
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\refint\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Yeni klasör\Kütüphane\DataAccess\obj\Debug\net8.0-windows\ref\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\bin\Debug\net8.0-windows\DataAccess.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.sourcelink.json
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.Up2Date
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\refint\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Kütüphane\Kütüphane\DataAccess\obj\Debug\net8.0-windows\ref\DataAccess.dll

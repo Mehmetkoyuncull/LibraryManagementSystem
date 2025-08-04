@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Business\\Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Library\\Library\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
