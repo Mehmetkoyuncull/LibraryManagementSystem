@@ -108,8 +108,9 @@ Kitap, üye ve ödünç işlemleri kolayca yapılabilir.
    * Tüm işlemler butonlar ve listeler üzerinden yapılır — kod bilmeye gerek yok.
 
 ---
+Proje Hakkında Detaylı Sunum:
 
-
+[KütüphaneYönetimsistemi.pptx](https://github.com/user-attachments/files/21688831/KutuphaneYonetimsistemi.pptx)
 
 
 
